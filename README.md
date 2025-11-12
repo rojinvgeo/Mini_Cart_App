@@ -20,13 +20,16 @@ clone repository
 ```bash
 https://github.com/rojinvgeo/Mini_Cart_App.git
 ```
+
 ```bash
 cd mini_cart_app
 ```
+
+## Get Dependencies
 ```bash
 flutter pub get
 ```
-
+## Run App
 ```bash
 flutter run
 ```
