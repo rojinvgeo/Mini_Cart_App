@@ -3,7 +3,7 @@
 A simple Flutter shopping cart app that demonstrates **model testing, widget testing, and logging**.
 
 ## 🚀 Features
-- Add and remove products from cart
+- Add  products to cart
 - Real-time total price calculation
 - Logger integration for add/remove actions
 - Unit tests for model logic
@@ -15,7 +15,18 @@ A simple Flutter shopping cart app that demonstrates **model testing, widget tes
 - Logger package
 - Flutter Test Framework
 
-## Run app
+## Setup instructions 
+clone repository
+```bash
+https://github.com/rojinvgeo/Mini_Cart_App.git
+```
+```bash
+cd mini_cart_app
+```
+```bash
+flutter pub get
+```
+
 ```bash
 flutter run
 ```
